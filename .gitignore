@@ -1,0 +1,30 @@
+logs
+project/project
+project/target
+public/js
+target
+tmp
+.history
+
+# these are compiled to, therefore irrelevant
+public/js
+public/css
+public/sass/.sass-cache/
+
+# extensions to ignore
+# mac resource files
+*.DS_Store
+*.txt~
+*.gitignore~
+*.rb~
+*.scss~
+*.scssc
+*.scss~
+*.scala~
+*.js~
+*.html~
+
+# prefixes to ignore
+\.#*
+\#*
+\.DS_Sto
